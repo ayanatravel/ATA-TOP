@@ -75,7 +75,7 @@ li{
 
 /* メイン */
 .top-wrapper{
-  background-image: url(file:///Users/ayana/Desktop/%E7%94%BB%E5%83%8F/sea.jpeg);
+  background-image: url(images/sea.jpeg);
   background-size: cover;
   width: 1170px;
   margin: 0 auto;
