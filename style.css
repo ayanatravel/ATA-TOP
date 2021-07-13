@@ -3,7 +3,7 @@
   margin: 0 auto;
   margin-bottom: 30px;
   margin-top: 20px;
-} 
+}
 
 a {
   text-decoration: none;
@@ -44,6 +44,8 @@ li{
 .menu{
   background-color: rgba(167, 214, 241, 0.521);
   font-size: 15px;
+
+
   padding: 12px 0;
   text-align: center;
   width: 100%; 
@@ -99,7 +101,7 @@ li{
 }
 
 /* お知らせ */
-.heading{
+.news-heading{
   text-align: center;
   padding: 10px 0px ;
   background-color: rgba(167, 214, 241, 0.521);
@@ -111,17 +113,17 @@ li{
   padding-top: 10px;
   justify-content: center;
   flex-wrap: wrap;
-  width: 100%;
+  /* width: 100%; */
   margin-left: 300px;
 }
 
 .news dt{
-  width: 15%;
+  width: 20%;
   padding: 5px;
 }
 
 .news dd {
-  width: 75%;
+  width: 70%;
   padding: 5px;
   margin-left: 5px;
 }
@@ -142,6 +144,14 @@ li{
 .news  dt time{
   color: gray;
   font-size: 15px;
+}
+
+/* おすすめ */
+.recommend-heading{
+  text-align: center;
+  padding: 10px 0px ;
+  background-color: rgba(167, 214, 241, 0.521);
+  height: 28px;
 }
 
 /* スワイパー */
@@ -170,6 +180,12 @@ li{
 /* sns */
 .sns {
   text-align: center;
+}
+.sns-heading{
+  padding: 10px 0px ;
+  background-color: rgba(167, 214, 241, 0.521);
+  height: 28px;
+  margin-top: 40px;
 }
 
 .line{
