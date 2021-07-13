@@ -3,7 +3,7 @@
   margin: 0 auto;
   margin-bottom: 30px;
   margin-top: 20px;
-}
+} 
 
 a {
   text-decoration: none;
@@ -99,7 +99,7 @@ li{
 }
 
 /* お知らせ */
-.news-heading{
+.heading{
   text-align: center;
   padding: 10px 0px ;
   background-color: rgba(167, 214, 241, 0.521);
@@ -144,14 +144,6 @@ li{
   font-size: 15px;
 }
 
-/* おすすめ */
-.recommend-heading{
-  text-align: center;
-  padding: 10px 0px ;
-  background-color: rgba(167, 214, 241, 0.521);
-  height: 28px;
-}
-
 /* スワイパー */
 .swiper-slide img{
   display: block;
@@ -178,12 +170,6 @@ li{
 /* sns */
 .sns {
   text-align: center;
-}
-.sns-heading{
-  padding: 10px 0px ;
-  background-color: rgba(167, 214, 241, 0.521);
-  height: 28px;
-  margin-top: 40px;
 }
 
 .line{
